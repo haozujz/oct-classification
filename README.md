@@ -9,3 +9,4 @@ Note: Some plots may only render via the above link but not on github.
 - scale down model, reduce training & inference time
 - freeze model and measure FLOPS
 - compute optimal learning rate
+- productionize
