@@ -11,7 +11,7 @@ Note: Some plots may only render via the above link but not on github.
 - compute optimal learning rate
 - productionize
 
-## Snippet:
+## Snippet
 
 Visualization of model layers:
 
