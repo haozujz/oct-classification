@@ -5,6 +5,12 @@ https://colab.research.google.com/drive/1wLVfjqzkYFHlc3R-9DkhoAKa8VaK24kp?usp=sh
 Multi-class image classification of retinal Ocular Coherence Tomography (OCT) images. Classes: Choroidal neovascularization (CNV) / Diabetic macular edema (DME) / Drusen / Normal.  
 Note: Some plots may only render via the above link but not on github.
 
+## Potential updates
+- scale down model, reduce training & inference time
+- freeze model and measure FLOPS
+- compute optimal learning rate
+- productionize
+
 ## Snippet:
 
 Visualization of model layers:
@@ -34,8 +40,4 @@ Visualization of model layers:
 ![Unknown-23](https://user-images.githubusercontent.com/79493809/230720997-f851d9d2-09c9-4ed2-872e-2617ebfd3517.png)
 ![Unknown-24](https://user-images.githubusercontent.com/79493809/230721002-23f19d13-a5ca-40a8-b8ce-69f0a63bd236.png)
 
-## Potential updates
-- scale down model, reduce training & inference time
-- freeze model and measure FLOPS
-- compute optimal learning rate
-- productionize
+
